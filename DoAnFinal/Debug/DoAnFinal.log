@@ -1,0 +1,11 @@
+﻿  main.cpp
+E:\Hoc\C++\DoAnFinal\DoAnFinal\main.cpp(107,16): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Hoc\C++\DoAnFinal\DoAnFinal\main.cpp(157,15): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Hoc\C++\DoAnFinal\DoAnFinal\main.cpp(162,7): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Hoc\C++\DoAnFinal\DoAnFinal\main.cpp(174,15): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Hoc\C++\DoAnFinal\DoAnFinal\main.cpp(179,7): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Hoc\C++\DoAnFinal\DoAnFinal\main.cpp(191,15): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Hoc\C++\DoAnFinal\DoAnFinal\main.cpp(195,16): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Hoc\C++\DoAnFinal\DoAnFinal\main.cpp(197,14): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+E:\Hoc\C++\DoAnFinal\DoAnFinal\main.cpp(307,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  DoAnFinal.vcxproj -> E:\Hoc\C++\DoAnFinal\Debug\DoAnFinal.exe
